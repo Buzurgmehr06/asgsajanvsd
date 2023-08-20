@@ -1,7 +1,6 @@
 pip install streamlit
 pip install sqlite3
 pip install pathlib
-pip install streamlit_authenticator
 pip install pickle
 pip install io
 import streamlit as st
