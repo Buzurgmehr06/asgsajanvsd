@@ -1,8 +1,7 @@
 pip install streamlit
 pip install sqlite3
 pip install pathlib
-pip install pickle
-pip install io
+
 import streamlit as st
 import sqlite3
 from pathlib import Path
