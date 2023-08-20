@@ -1,8 +1,11 @@
+pip install streamlit
+pip install sqlite3
+pip install pathlib
+pip install streamlit_authenticator
+pip install pickle
+pip install io
 import streamlit as st
 import sqlite3
-import pandas as pd
-import openpyxl
-from openpyxl import load_workbook
 from pathlib import Path
 import streamlit_authenticator as stauth
 import pickle
